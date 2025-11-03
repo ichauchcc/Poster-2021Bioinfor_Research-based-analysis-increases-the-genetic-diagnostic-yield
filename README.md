@@ -1,7 +1,7 @@
 # Poster-2021Bioinfor_Research-based-analysis-increases-the-genetic-diagnostic-yield
 This is the poster prepared for the Bioinfor Summer conference 2021.
 
-Paper is now available [online] (https://www.sciencedirect.com/science/article/pii/S1098360025002734?via%3Dihub)
+Paper is now available [online] (https://www.sciencedirect.com/science/article/pii/S1098360025002734?via%3Dihub)  
 This work is licensed under the Creative Commons Attribution 4.0 International License.  
 To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.  
 
